@@ -1,6 +1,6 @@
 SUMMARY
 This document is a report for BBM-418 Computer Vision Laboratory Assignment-1. An implementation of Hough Transform for line detection was done and results are given for this assignment. Sample space consists of bar-code images which has different angles and visibility. Python is used as programming language and OpenCV is used for processing library. Results show that we are able to detect bar-codes with some errors and missing parts.
-You can check report folder for more information.
+You can check report file for more information.
 
 HOW TO RUN THE CODE:
 To run this project you need to have numpy and opencv packages on your computer. After installing packages follow the given steps in order.
